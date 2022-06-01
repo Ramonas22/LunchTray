@@ -1,0 +1,7 @@
+#Wed Jun 01 20:17:05 EEST 2022
+base.1=D\:\\AndroidStudioPractice\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
+path.1=classes.dex
+base.0=D\:\\AndroidStudioPractice\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
